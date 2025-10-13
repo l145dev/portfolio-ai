@@ -1,0 +1,314 @@
+{
+  "first_name": "Aryan",
+  "last_name": "Shah",
+  "age": 20,
+  "location": "Antwerp, Belgium",
+  "career_focus": "Frontend/Full-Stack Development",
+  "languages": {
+    "English": "Fluent",
+    "Dutch": "Fluent",
+    "French": "Elementary",
+    "German": "Basic"
+  },
+  "contact": {
+    "email": "aryan.shah@l145.be",
+    "phone": "+32 491 75 09 43",
+    "linkedin": "https://www.linkedin.com/in/aryan-shah-l145",
+    "github": "https://github.com/l145dev"
+  },
+  "portfolio": "https://l145.be/",
+  "skills": {
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "C#",
+      "Java",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Bash"
+    ],
+    "frameworks_libraries": [
+      "React",
+      "Vue",
+      "Node.js",
+      "Express",
+      "FastAPI",
+      "Tailwind CSS",
+      ".NET",
+      "ChromaDB"
+    ],
+    "databases": ["MySQL", "PostgreSQL"],
+    "tools": [
+      "Git",
+      "Github",
+      "Docker",
+      "VS Code",
+      "Cursor",
+      "Postman",
+      "Figma",
+      "Linux",
+      "Excalidraw",
+      "Vercel",
+      "Render",
+      "Combell",
+      "Groq AI",
+      "Prisma ORM",
+      "Supabase",
+      "Stripe"
+    ],
+    "methodologies": ["Agile", "Scrum"]
+  },
+  "experience": [
+    {
+      "role": "Frontend & Cybersecurity Intern",
+      "company": "Pickit3D",
+      "start_month": "July",
+      "start_year": 2025,
+      "end_month": "September",
+      "end_year": 2025,
+      "content": {
+        "Description": "Enhance a 3D camera selector web application using Figma, React (TypeScript), MUI, MobX, Three.js, Vitest to improve UI/UX, performance, documentation and clean code. Implement LLDAP server on a Docker container to manage user authentication and authorization, ensuring secure access to company resources.",
+        "Technologies": [
+          "Figma",
+          "React",
+          "TypeScript",
+          "MUI",
+          "MobX",
+          "Three.js",
+          "Vitest",
+          "Docker",
+          "LLDAP"
+        ],
+        "Achievements": [
+          "Redesigned Camera Selector UI/UX from scratch with mockups in Excalidraw and Figma, improving user experience and accessibility.",
+          "Work together with Sales and Application engineers to gather requirements and feedback, ensuring the application meets user needs.",
+          "Refactor code for better readability, maintainability, and performance",
+          "Added unit selector feature to camera selector, allowing users to choose between metric and imperial units.",
+          "Added auto-scaler to camera selector to ensure 3D Visualization text remains readable depending on camera FoV",
+          "Implemented LLDAP server on Docker container to manage user authentication and authorization, ensuring secure access to company resources.",
+          "Fix general bugs and issues in main application used by 1000s of companies worldwide.",
+          "Add accuracy by camera feature to enhance camera selection criteria.",
+          "Add application requirements input feature to tailor camera recommendations based on specific use cases.",
+          "Add URL parameters configuration to enable easy sharing of camera selections between experts and clients.",
+          "Improve documentation and clean code for better maintainability and collaboration.",
+          "Research and document on dynamic accuracy calculations using custom tailored and optimized mathematical formulas to calculate accuracy based on user inputs and camera specifications."
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Data Science, Protection & Security",
+      "institution": "Thomas More University of Applied Sciences",
+      "start_year": 2023,
+      "end_year": 2026,
+      "overall_grade": "80%",
+      "description": "Coursework includes web development, software development, networking, devops, databases, data analysis, data science, data engineering, machine learning, AI, and cybersecurity."
+    },
+    {
+      "degree": "Secondary Education in Marketing & Entrepreneurship",
+      "institution": "Sint-Ludgardis Antwerpen",
+      "start_year": 2021,
+      "end_year": 2023,
+      "overall_grade": "75%",
+      "description": "Coursework includes marketing, entrepreneurship, business economics, accounting, mathematics, science, and languages."
+    },
+    {
+      "degree": "Secondary Education in Economics & Mathematics",
+      "institution": "Onze-Lieve-Vrouw College Antwerpen",
+      "start_year": 2017,
+      "end_year": 2021,
+      "overall_grade": "65%",
+      "description": "Coursework includes economics, mathematics, and sciences."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Airbnb Camping",
+      "description": "A full-stack web application deployed on the cloud demonstrating robust development, connecting users with unique outdoor lodging experiences. This project explores dynamic data management and intuitive UI/UX for specialized accommodation discovery.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Git",
+        "GitHub",
+        "Figma",
+        "Combell",
+        "Render",
+        "Postman",
+        "Prisma ORM",
+        "Supabase",
+        "Stripe",
+        "Groq AI"
+      ],
+      "features": [
+        "Browse and search for camping properties by type, location, date, and guest count",
+        "View detailed property information, amenities, reviews, and ratings",
+        "Book properties with secure payment (Stripe, PayPal, Google Pay)",
+        "Manage trips and booking history",
+        "Leave reviews for properties after stays",
+        "Receive notifications (booking confirmations, reminders, etc.)",
+        "Support and password reset functionality",
+        "Become a host and list new camping properties",
+        "Manage property details, availability, and amenities",
+        "View and manage bookings, revenue, and property performance",
+        "Respond to reviews and manage notifications",
+        "Modern, responsive UI/UX (Figma-designed)",
+        "Session-based authentication (secure cookies)",
+        "Rate limiting and security best practices",
+        "Email notifications (support, password reset)",
+        "Autocomplete for city/country using GeoDB API",
+        "Groq AI usage in support message subject line creation for more comprehensive support handling."
+      ],
+      "website": "https://l145.be/airbnb-camping",
+      "github": "https://github.com/l145dev/airbnb-for-campers"
+    },
+    {
+      "name": "Anime Waiting Room",
+      "description": "Website to track countdowns for airing anime using JikanAPI. Fetches release schedules, calculates countdowns, and adds dynamic watch links for multiple shows.",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "GitHub",
+        "Combell",
+        "JikanAPI"
+      ],
+      "features": [
+        "Real-time Countdown: Displays the time remaining until the next episode.",
+        "JikanAPI Integration: Fetches accurate anime release schedules.",
+        "Dynamic Watch Links: Quickly jump to watch your favorite anime.",
+        "Multi-Anime Support: Track multiple anime countdowns at the same time.",
+        "Dynamic Caching: Store your anime inputs locally and automatically load them in every time you re-open the site."
+      ],
+      "website": "https://l145.be/anime-waiting-room",
+      "github": "https://github.com/l145dev/anime-waiting-room"
+    },
+    {
+      "name": "Trump AI",
+      "description": "A humorous AI chatbot that responds in the style of Donald Trump using Groq AI's llama-3.3-70b-versatile model.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Express",
+        "NodeJS",
+        "Groq AI",
+        "Git",
+        "Github",
+        "Vercel",
+        "Combell"
+      ],
+      "features": [
+        "Trump-style Responses: Engages users with witty replies mimicking Donald Trump's speech patterns.",
+        "Groq AI Integration: Leverages advanced AI capabilities for natural language understanding.",
+        "User-friendly Interface: Simple and intuitive design for seamless interactions.",
+        "Multi-platform Support: Accessible via web and mobile devices."
+      ],
+      "website": "https://l145.be/trump-ai",
+      "github": "https://github.com/l145dev/trump-ai"
+    },
+    {
+      "name": "#OPENTOWORK Anywhere",
+      "description": "Apply LinkedIn #OPENTOWORK banner on any image to use on any social platform!",
+      "technologies": ["React", "TypeScript", "Git", "Github", "Combell"],
+      "features": [
+        "Upload any image and apply the #OPENTOWORK banner.",
+        "Download the modified image for use on social platforms.",
+        "User-friendly interface for easy image editing.",
+        "Fully client side, no backend required."
+      ],
+      "website": "https://l145.be/opentowork-anywhere",
+      "github": "https://github.com/l145dev/opentowork-anywhere"
+    },
+    {
+      "name": "Project Actifuse",
+      "description": "Generate random (filtered) activities when you're bored. Features include: Keep track of generated activities, clean UI/UX, BoredAPI activities. Desktop application built with WPF .NET (C#).",
+      "technologies": [
+        "C#",
+        ".NET",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "WPF",
+        "Git",
+        "GitHub",
+        "BoredAPI"
+      ],
+      "features": [
+        "Generate random activities based on user-defined filters (type, participants, price, accessibility).",
+        "Keep track of generated activities in a history log.",
+        "Clean and intuitive UI/UX for easy navigation.",
+        "Desktop application built with WPF .NET (C#) for Windows users."
+      ],
+      "website": "https://l145.be/project-actifuse",
+      "github": "https://github.com/l145dev/ProjectActifuse"
+    },
+    {
+      "name": "F1 Data Analysis",
+      "description": "Interactive dashboard with visualizations for in-depth analysis of Formula 1 data, key metrics, and trends.",
+      "technologies": ["Excel, Power BI", "DAX", "Git", "GitHub"],
+      "features": [
+        "Data Cleaning and Preparation: Processed raw Formula 1 data for analysis.",
+        "Interactive Visualizations: Created charts and graphs to visualize key metrics and trends.",
+        "Dashboard Creation: Developed an interactive dashboard for easy data exploration.",
+        "Insights Generation: Analyzed data to uncover insights and patterns in Formula 1 racing."
+      ],
+      "github": "https://github.com/l145dev/F1-Data-Analysis"
+    }
+  ],
+  "Hackathons": [
+    {
+      "name": "Holy Hack 2025",
+      "role": "Frontend Developer",
+      "date": "March 2025",
+      "description": "Built a web application within 24 hours to tailor a visual roadmap for various financial goals with real-time market history data and Monte Carlo simulation for investment strategies.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Python",
+        "Git",
+        "GitHub",
+        "Figma",
+        "Yahoo Finance API"
+      ],
+      "achievements": [
+        "Developed a user-friendly interface for setting and tracking financial goals.",
+        "Integrated real-time market data using Yahoo Finance API.",
+        "Implemented Monte Carlo simulation to visualize potential investment outcomes.",
+        "Collaborated effectively with a multidisciplinary team to deliver a functional prototype within the time limit."
+      ],
+      "position": "participation"
+    },
+    {
+      "name": "TCS Design Thinking Hackathon 2025",
+      "role": "UI/UX Designer & Prototype Developer",
+      "date": "March 2025",
+      "description": "Developed and outlined a prototype for an underwater robot which gathers various data from Dijle river to tackle a real-world problem for City of Mechelen. Data is displayed in a user-friendly app in real-time.",
+      "technologies": ["Figma", "PowerPoint", "Git", "GitHub"],
+      "achievements": [
+        "Created wireframes and mockups for the underwater robot prototype.",
+        "Designed an intuitive user interface for the real-time data display application.",
+        "Presented the prototype to stakeholders and gathered feedback for improvements."
+      ],
+      "position": "2nd Place"
+    },
+    {
+      "name": "Delaware Hackathon 2025",
+      "role": "Data Consultant",
+      "date": "April 2025",
+      "description": "Tackled a real-world data problem for Premium Sound Solutions by working with Delaware and PSS to enhance their data pipeline and add features on top of the existing infrastructure conceptually.",
+      "technologies": ["PowerPoint"],
+      "achievements": [
+        "Analyzed the existing data pipeline and identified areas for improvement.",
+        "Proposed new features and enhancements to optimize data processing and analysis.",
+        "Collaborated with team members to develop a comprehensive solution for PSS."
+      ],
+      "position": "participation"
+    }
+  ]
+}
