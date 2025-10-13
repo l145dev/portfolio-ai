@@ -1,3 +1,5 @@
+(outdated)
+
 # Aryan Shah Portfolio
 
 ## Personal Information
@@ -245,13 +247,13 @@
 - Date: March 2025
 - Position: Participation
 - Technologies: React, JavaScript, Python, Git, GitHub, Figma, Yahoo Finance API
-- Description: Built a web application within 24 hours to tailor a visual roadmap for various financial goals with real-time market history data and Monte Carlo simulation for investment strategies.
+- Description: Built a web application within 24 hours to tailor a visual roadmap for various financial goals, my team used real-time market history data and Monte Carlo simulation for investment strategies.
 
 #### Holy Hack Hackathon 2025 Achievements
 
 - Developed a user-friendly interface for setting and tracking financial goals.
-- Integrated real-time market data using Yahoo Finance API.
-- Implemented Monte Carlo simulation to visualize potential investment outcomes.
+- Team integrated real-time market data using Yahoo Finance API.
+- Team implemented Monte Carlo simulation to visualize potential investment outcomes.
 - Collaborated effectively with a multidisciplinary team to deliver a functional prototype within the time limit.
 
 ### TCS Design Thinking Hackathon 2025
