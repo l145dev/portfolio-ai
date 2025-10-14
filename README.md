@@ -1,6 +1,6 @@
 # Portfolio AI
 
-**Status**: In progress
+**Status**: In progress \
 **Expected Release**: 31/10/2025
 
 Will be available by end of october (hopefully) on https://l145.be/ so that you can ask questions to the AI version of me!
