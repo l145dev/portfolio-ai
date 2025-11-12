@@ -44,14 +44,15 @@ Will be available by end of october (hopefully) on https://l145.be/ so that you 
     # Using bash/terminal
     chroma run --host localhost --port 8000
     ```
-4.  Go through ```pure_chroma.ipynb``` if you want to try it yourself.
+
+3.  Go through `pure_chroma.ipynb` if you want to try it yourself.
 
 ## Roadmap & Status
 
 - [x] Hyper-optimize and manually chunk all portfolio data.
 - [x] Build and test the dense RAG pipeline locally.
-- [ ] **Chroma Cloud:** Resolve the "permission denied" error to connect to the cloud instance.
-- [ ] **Backend Integration:** Finalize the architecture for the backend API.
+- [x] **Chroma Cloud:** Resolve the "permission denied" error to connect to the cloud instance.
+- [x] **Backend Integration:** Finalize the architecture for the backend API.
 - [ ] **Frontend Integration:** Design and build the AI chat section for my portfolio at [l145.be](https://l145.be/).
 
 ## Contact
