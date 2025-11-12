@@ -52,8 +52,9 @@ Will be available by end of october (hopefully) on https://l145.be/ so that you 
 - [x] Hyper-optimize and manually chunk all portfolio data.
 - [x] Build and test the dense RAG pipeline locally.
 - [x] **Chroma Cloud:** Resolve the "permission denied" error to connect to the cloud instance.
-- [x] **Backend Integration:** Finalize the architecture for the backend API.
-- [ ] **Frontend Integration:** Design and build the AI chat section for my portfolio at [l145.be](https://l145.be/).
+- [x] **Backend Integration:** Build out the backend.
+- [ ] **Frontend Integration + deployment:** Design and build the AI chat section for my portfolio at [l145.be](https://l145.be/).
+- [ ] **Deployment (Backend):** Deploy backend (somewhere)
 
 ## Contact
 
